@@ -2,5 +2,5 @@
 
   "prefix": "x!",
   "everyoneMention": true,
-  "hostedBy": false
+  "hostedBy": true
 }
