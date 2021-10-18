@@ -58,10 +58,10 @@ exports.run = async (client, message, args) => {
             winners: "winner(s)",
             endedAt: "Ended at",
             units: {
-                seconds: "seconds",
+        
                 minutes: "minutes",
-                hours: "hours",
-                days: "days",
+       
+        
                 pluralS: false // Not needed, because units end with a S so it will automatically removed if the unit value is lower than 2
             }
         }
