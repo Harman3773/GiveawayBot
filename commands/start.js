@@ -59,7 +59,7 @@ exports.run = async (client, message, args) => {
             endedAt: "Ended at",
             units: {
         
-                minutes: "minutes",
+                hours: "hours",
        
         
                 pluralS: false // Not needed, because units end with a S so it will automatically removed if the unit value is lower than 2
